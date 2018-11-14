@@ -1,13 +1,13 @@
 +++
-image = "img/portfolio/gravity-paper.jpg"
+image = "img/portfolio/suppleLeopardBook.jpg"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
-title = "Name of the work 3"
+title = "Becoming a Supple Leopard 2nd Edition"
 draft = false
 weight = 2
 +++
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+Just an average present. She was interested, but given the amount of information that you can find online these days I probably should have thought of something else.
 <!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
