@@ -12,6 +12,6 @@ We have 3 boys and currently live in Seattle WA. My wife likes the following thi
 * Binge watching Netflix TV series
 * Coffee
 * Baking
-
+* Favorite color is pink
 
 That's the profile - hope it helps!
