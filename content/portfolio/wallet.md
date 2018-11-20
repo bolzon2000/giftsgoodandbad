@@ -11,6 +11,15 @@ Woohoo! She loved this one! Coach makes good quality stuff and even better makes
 <!--more-->
 
 
-## Coach Wallet
+## Coach Wallet: Product Details
 
-Detail Here!
+- Metallic crossgrain leather
+- Eight credit card slots
+- Full-length bill compartment
+- Snap closure
+- Outside zip coin pocket
+- 7 3/4" (L) x 3 1/2" (H)
+
+Editor's notes
+
+This slim wallet is crafted in colorblock crossgrain finished with a brilliant metallic sheen. With a roomy interior that neatly organizes bills, cards and other essentials, it can be tossed in a tote or carried solo as a clutch.
