@@ -7,7 +7,7 @@ title = "Small TV for the kitchen!"
 weight = 0
 +++
 
-I woke up super early and installed this in the kitchen for her. She spends a lot of time baking or cooking for the kids so I thought it would be nice for her to be able to watch the news, Netflix or whatever else at the same time. Turns out I was right on this one! You can buy a 32" TV these days for under $200 so not a bad gift. Bought her something like the one listed below.
+I woke up super early and installed this in the kitchen for her. She spends a lot of time baking or cooking for the kids so I thought it would be nice for her to be able to watch the news, Netflix or whatever else at the same time. Turns out I was right on this one! You can buy a 32" TV these days for under $200 so not a bad gift. Bought her something like the one listed.
 <!--more-->
 
 
