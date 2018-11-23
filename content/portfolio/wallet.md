@@ -22,4 +22,4 @@ Woohoo! She loved this one! Coach makes good quality stuff and even better makes
 
 Editor's notes
 
-This slim wallet is crafted in colorblock crossgrain finished with a brilliant metallic sheen. With a roomy interior that neatly organizes bills, cards and other essentials, it can be tossed in a tote or carried solo as a clutch.
+> This slim wallet is crafted in colorblock crossgrain finished with a brilliant metallic sheen. With a roomy interior that neatly organizes bills, cards and other essentials, it can be tossed in a tote or carried solo as a clutch.

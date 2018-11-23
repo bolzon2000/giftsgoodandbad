@@ -13,7 +13,7 @@ She did not seem super excited when she opened this one, however she used it a l
 
 ## Stadium Blanket - Notes from manufacturer
 
-TAME THE ELEMENTS: Orion Outpost Trading Co. is proud to introduce our "Elemental" Stadium Sherpa Blanket. Waterproof, windproof, stain resistant, lightweight and portable. A matching rip-stop bag comes with every blanket that has a shoulder strap, as well as a handle.
+> TAME THE ELEMENTS: Orion Outpost Trading Co. is proud to introduce our "Elemental" Stadium Sherpa Blanket. Waterproof, windproof, stain resistant, lightweight and portable. A matching rip-stop bag comes with every blanket that has a shoulder strap, as well as a handle.
 
 OVERSIZED: 56" x 80" large enough for more than 1 person to snuggle in or lay it down as an ULTRA PLUSH picnic blanket.
 

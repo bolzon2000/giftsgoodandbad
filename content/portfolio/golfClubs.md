@@ -13,7 +13,7 @@ Another good try ... but a fail none the less. She's used them once or twice ove
 
 ## The Strata 11-Piece women’s complete golf set - Product Overview
 
-The Strata 11-Piece women’s complete golf set is designed for maximum performance right out of the box.
+> The Strata 11-Piece women’s complete golf set is designed for maximum performance right out of the box.
 
 Set includes: Driver, 5 Wood, 5 Hybrid, 7 & 9 Iron, SW, Putter, Stand Bag, and 3 Head covers.
 Woods (Driver, 5 Fairway Wood, & 5 Hybrid) are specifically designed to give women a great combination of distance, forgiveness and control with clubs that are very easy to hit. A head cover for each is included.

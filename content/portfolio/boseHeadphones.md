@@ -12,7 +12,7 @@ She binge watches Netflix on her laptop, and is always messing around looking fo
 
 ## Manufacturer Overview:
 
-They combine world-class noise cancelling technology with the freedom of wireless—and now you can give them your distinct style, whether it’s your unique color combination or your favorite team’s scheme. With a premium finish, Custom QC35 II headphones let you design them with color that’s as personal as your music. And with Amazon Alexa and the Google Assistant built-in, you can play that music, receive texts, and get answers without glancing at your phone.
+> They combine world-class noise cancelling technology with the freedom of wireless—and now you can give them your distinct style, whether it’s your unique color combination or your favorite team’s scheme. With a premium finish, Custom QC35 II headphones let you design them with color that’s as personal as your music. And with Amazon Alexa and the Google Assistant built-in, you can play that music, receive texts, and get answers without glancing at your phone.
 
 ## Bose soundlink: Specs
 
