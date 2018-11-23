@@ -10,6 +10,15 @@ weight = 7
 Okay, some people say don't buy kitchen appliances as gifts ... they're right. Has she used it? Yes ... Was she excited when she opened it ... no. Great mixer, mediocre present.
 <!--more-->
 
-## KitchenAid Mixer
+## KitchenAid Mixer - Technical Specifications
 
-Details here!
+- Multipurpose attachment hub, over 15 optional attachments
+- 4.5-Qt. Stainless Steel Bowl;Direct Drive Transmission
+- 10-Speed Settings. Soft Start
+- Tilt-head design
+- Includes coated flat beater, coated dough hook, and wire whip, 1-year warranty. To move the speed control lever with ease, lift slightly up as you move it across the settings in either direction
+- Multipurpose Power Hub
+- 4.5-Qt. Stainless Steel Bowl
+- 59-Point Planetary Mixing Action
+- Tilt-Head Design
+- Mixing Speeds - 10. Wattage - 275

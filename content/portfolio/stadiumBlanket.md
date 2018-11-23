@@ -11,6 +11,14 @@ She did not seem super excited when she opened this one, however she used it a l
 <!--more-->
 
 
-## Stadium Blanket
+## Stadium Blanket - Notes from manufacturer
 
-Details Here
+TAME THE ELEMENTS: Orion Outpost Trading Co. is proud to introduce our "Elemental" Stadium Sherpa Blanket. Waterproof, windproof, stain resistant, lightweight and portable. A matching rip-stop bag comes with every blanket that has a shoulder strap, as well as a handle.
+
+OVERSIZED: 56" x 80" large enough for more than 1 person to snuggle in or lay it down as an ULTRA PLUSH picnic blanket.
+
+EXTRA DURABLE RIP-STOP: Expect years of use from our over engineered blanket. Strong, yet thanks to the Sherpa Fleece lining, it's incredibly soft and plush.
+
+SHERPA LEVEL HEAT RETENTION: When it get's cold outside, but the kids have a football game, TRUST our Sherpa fleece to trap your body heat and keep you warm until the clock runs down.
+
+MACHINE WASHABLE & AIR/LOW DRY: give them a wash to soften them even more.

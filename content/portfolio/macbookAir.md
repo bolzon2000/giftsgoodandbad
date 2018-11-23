@@ -11,6 +11,6 @@ One of my better gifts, and there are a lot of them on eBay for a reasonable pri
 <!--more-->
 
 
-## Macbook Air 
+## Macbook Air - Apple Overview
 
-Detail Here!
+The most loved Mac is about to make you fall in love all over again. Available in silver, space gray, and gold, the new thinner and lighter MacBook Air features a brilliant Retina display, Touch ID, the latest-generation keyboard, and a Force Touch trackpad. The iconic wedge is created from 100 percent recycled aluminum, making it the greenest Mac ever.1 And with all-day battery life, MacBook Air is your perfectly portable, do-it-all notebook.

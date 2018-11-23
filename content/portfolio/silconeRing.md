@@ -12,4 +12,14 @@ A good idea for cross-fitters I think??? I don't wear my band anymore because it
 
 ## Silicone Band Details
 
-Details Here!
+Jewelry Information
+
+Brand, Seller, or Collection Name:	Enso Rings
+Metal﻿:	no-metal-type
+Material:	silicone
+Gem Type:	NA
+Setting:	other-setting-type
+Height:	0.30 inches
+Width:	1 inches
+Length:	1 inches
+Ring size:	3
