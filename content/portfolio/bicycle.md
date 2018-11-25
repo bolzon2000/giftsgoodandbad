@@ -5,6 +5,8 @@ image = "img/portfolio/bicycle.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Mountain Bike"
 weight = 0
+buyLogo = "img/amazonButton.png"
+buyLink="https://www.amazon.com/gp/product/B01LYN4STT/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LYN4STT&linkCode=as2&tag=giftsgoodandbad-20&linkId=8100ce6b481d874cb14bd3e8a7bcfd8a
 +++
 
 I thought that this would be a great present and imagined her going for bike rides with the kids! She doesn't do that very often, but at least she has the option. Have to admit it's a bit painful to have to pump the tires when she wants to ride it! Still, I'd rate this gift a solid 6 out of 10. The mountain bike pictured is the closest one that I could find to the one I bought (price range was about the same).

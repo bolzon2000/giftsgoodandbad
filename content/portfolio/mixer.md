@@ -5,6 +5,8 @@ date = "2016-11-05T19:57:40+05:30"
 title = "KitchenAid KSM150PSWH Artisan Series 5-Qt. Stand Mixer with Pouring Shield - White"
 draft = false
 weight = 7
+buyLogo = "img/amazonButton.png"
+buyLink="https://www.amazon.com/gp/product/B00BU27HYO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BU27HYO&linkCode=as2&tag=giftsgoodandbad-20&linkId=b0d92deaee4bd1ad75737a43938c19ba"
 +++
 
 Okay, some people say don't buy kitchen appliances as gifts ... they're right. Has she used it? Yes ... Was she excited when she opened it ... no. Great mixer, mediocre present.

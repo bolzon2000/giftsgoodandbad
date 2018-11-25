@@ -5,6 +5,8 @@ draft = false
 image = "img/portfolio/stadiumBlanket.jpg"
 showonlyimage = false
 weight = 1
+buyLogo = "img/amazonButton.png"
+buyLink="https://www.amazon.com/gp/product/B07GVSCTQN/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07GVSCTQN&linkCode=as2&tag=giftsgoodandbad-20&linkId=b81313db8fa12208623849d3ad2b7e1a"
 +++
 
 She did not seem super excited when she opened this one, however she used it a lot and really appreciated having it for baseball games. Weather in Seattle in the early spring can be cold and rainy and this blanket kept both the wind and the rain out.

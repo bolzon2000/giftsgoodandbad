@@ -5,6 +5,8 @@ date = "2016-11-05T19:44:32+05:30"
 title = "Becoming a Supple Leopard 2nd Edition"
 draft = false
 weight = 2
+buyLogo = "img/amazonButton.png"
+buyLink="https://www.amazon.com/gp/product/1628600837/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1628600837&linkCode=as2&tag=giftsgoodandbad-20&linkId=f67f45cc3c9e08aeae00f01fa034720c"
 +++
 
 Just an average present. I thought she'd like it because she's into cross-fit and the book was recommended for cross-fitters. She was interested, but given the amount of information that you can find online these days I probably should have thought of something else.

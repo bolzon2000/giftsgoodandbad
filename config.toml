@@ -14,7 +14,7 @@ googleAnalytics = "UA-129728672-1"
   description = "Gifts I have bought for my wife ... some good .. some bad."
   copyright = "&copy;2018 dave"
   sidebarAbout = [
-    "Like many men, I struggle every year to find gifts for my wife. This site aims to share some of my successes and failures as a potential source of inspiration for others. Gifts have covered different occassions (i.e. Birthday, Anniversary, Mother's Day etc.)."
+    "Like many guys, I struggle every year to find gifts for my wife. This site aims to share some of my successes and failures as a potential source of inspiration for others. Gifts have covered different occassions (i.e. Birthday, Anniversary, Mother's Day etc.)."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a

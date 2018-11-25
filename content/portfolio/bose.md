@@ -5,6 +5,8 @@ image = "img/portfolio/boseSoundLink.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Bose soundlink Mini II Bluetooth Speaker"
 weight = 0
+buyLogo = "img/amazonButton.png"
+buyLink="https://www.amazon.com/gp/product/B01LZRFI5C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LZRFI5C&linkCode=as2&tag=giftsgoodandbad-20&linkId=4d627f7d4926027910509b5ef938c2c0"
 +++
 
 This one was not one of my better ideas. I was hoping that she would use it to

@@ -5,6 +5,8 @@ image = "img/portfolio/hydroFlask.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Hydro Flask 32 oz Sports Water Bottle"
 weight = 0
+buyLogo = "img/amazonButton.png"
+buyLink="https://www.amazon.com/gp/product/B07947G54P/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07947G54P&linkCode=as2&tag=giftsgoodandbad-20&linkId=7436e3a277ad8ad0fcfe4c22acb1f05b"
 +++
 
 Apparently cross-fit people love hydro flask water bottles. Not sure why, but given that she loves cross-fit, I'm going to give this gift a try. Will update the site once I give it to her. Wish me luck!

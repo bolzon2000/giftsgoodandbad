@@ -5,6 +5,8 @@ showonlyimage = false
 date = "2016-11-05T19:50:47+05:30"
 title = "Kindle Paperwhite"
 weight = 4
+buyLogo = "img/amazonButton.png"
+buyLink="https://www.amazon.com/gp/product/B07CXG6C9W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07CXG6C9W&linkCode=as2&tag=giftsgoodandbad-20&linkId=8a9f9115b3ded2a5760033db158f239b"
 +++
 
 She loved this one! She's spent a lot of hours reading and now we don't have to deal with piles of old books. Would definitely buy this one again!

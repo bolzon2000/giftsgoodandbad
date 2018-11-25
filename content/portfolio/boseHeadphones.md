@@ -5,6 +5,8 @@ image = "img/portfolio/boseHeadphones.png"
 date = "2016-11-05T18:25:22+05:30"
 title = "Custom QuietComfort 35 wireless headphones II"
 weight = 0
+buyLogo = "img/officialSite.png"
+buyLink="http://bose.com"
 +++
 
 She binge watches Netflix on her laptop, and is always messing around looking for headphones and just goes without headphones when she can't find any (and drives me crazy). These ones can be customized as well - hoping she likes the colors I picked! Will update once the gift has been given!

@@ -5,6 +5,8 @@ image = "img/portfolio/tv.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Small TV for the kitchen!"
 weight = 0
+buyLogo = "img/amazonButton.png"
+buyLink="https://www.amazon.com/gp/product/B07FPR6FMJ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07FPR6FMJ&linkCode=as2&tag=giftsgoodandbad-20&linkId=1351bee02f6008829bbeaf25db247c9e"
 +++
 
 I woke up super early and installed this in the kitchen for her. She spends a lot of time baking or cooking for the kids so I thought it would be nice for her to be able to watch the news, Netflix or whatever else at the same time. Turns out I was right on this one! You can buy a 32" TV these days for under $200 so not a bad gift. Bought her something like the one listed.

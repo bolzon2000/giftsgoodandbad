@@ -5,6 +5,8 @@ image = "img/portfolio/tennisRacket.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Wilson Burn 100ULS Tennis Racquet"
 weight = 0
+buyLogo = "img/amazonButton.png"
+buyLink="https://www.amazon.com/gp/product/B01N7KWQFP/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01N7KWQFP&linkCode=as2&tag=giftsgoodandbad-20&linkId=a28c8832a42606a367b4221f0c8458b4"
 +++
 
 I play tennis so thought it would be nice if we could play together at some point. I think she appreciated it, however she's only used it twice in 3 years. Nice thought, gift was just ok.

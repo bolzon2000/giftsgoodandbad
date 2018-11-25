@@ -5,6 +5,8 @@ draft = false
 date = "2016-11-05T19:53:42+05:30"
 title = "Coffee Shirt"
 weight = 5
+buyLogo = "img/amazonButton.png"
+buyLink="https://www.amazon.com/gp/product/B07FWD5STL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07FWD5STL&linkCode=as2&tag=giftsgoodandbad-20&linkId=d3031b561e5ccb02493fa8cf461da6bb"
 +++
 
 Well, she likes coffee and she showed me this one day because she thought it was funny (or maybe it reminded her of me???). Either way, there is a chance it could be a hint so it's on the list. I'll update the site with what she thought after I give it to her!

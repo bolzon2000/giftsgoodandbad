@@ -5,6 +5,8 @@ image = "img/portfolio/golfClubs.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Callaway Golf Set"
 weight = 0
+buyLogo = "img/amazonButton.png"
+buyLink="https://www.amazon.com/gp/product/B07H2CXV1Y/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07H2CXV1Y&linkCode=as2&tag=giftsgoodandbad-20&linkId=f762daf5b6e9d5baf0fb6196e4129264"
 +++
 
 Another good try ... but a fail none the less. She's used them once or twice over a few years (set I purchased is a few years older than the one listed). I even managed to convince her to take a lesson or two but the sport just didn't stick.
